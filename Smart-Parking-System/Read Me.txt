@@ -1,0 +1,19 @@
+This code is written in C++ version 17 using standard template library
+Recommended compiler-   g++ (MinGW.org GCC-6.3.0-1) 6.3.0
+Note- Any GCC version 6.3.0 compiler from any organisation should suffice the need
+
+Compilation instruction-
+1. Open terminal (linux) or command prompt (windows) inside the folder "Smart Parking System"
+2. execute-
+	g++ main.cpp
+    to create a executable file with name "a.out" (linux) or "a.exe" (windows)
+3. execute-
+	./a.out (linux)
+	    or
+	a.exe (windows)
+    to execute the program.	
+
+This program contains two files- "main.cpp" and "hungarian.h"
+"hungarian.h" is the implementation of the classical hungarian algorithm for linear assignment problem and is required by our main algorithm "main.cpp".
+
+Note- We have also included a "main.exe" file which is complied in our system and can be directly executed in windows platform by running command the "main.exe" inside the cmd opened in the corresponding folder.

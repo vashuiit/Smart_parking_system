@@ -1,0 +1,72 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.served.
+                                                         re6
+Try the new cross-platform PowerShell https://aka.ms/pscoms/pscore6                                               rtan\Smart Parking System"
+
+PS C:\Users\Adxto> cd "c:\Users\Adxto\Desktop\Project Spaystem> & .\"main.exe" ect Spartan\Smart Parking System"
+PS C:\Users\Adxto\Desktop\Project Spartan\Smart Parking Srking System> & .\"main.exe"
+Enter no of parking spots: 16
+Enter no of cars: 3
+
+Enter distance between car P1 and Spot1: 5        
+Enter distance between car P1 and Spot2: 3        
+Enter distance between car P1 and Spot3: 10       
+Enter distance between car P1 and Spot4: 11       
+Enter distance between car P1 and Spot5: 12       
+Enter distance between car P1 and Spot6: 14       
+Enter distance between car P1 and Spot7: 20       
+Enter distance between car P1 and Spot8: 18       
+Enter distance between car P1 and Spot9: 19       
+Enter distance between car P1 and Spot10: 100     
+Enter distance between car P1 and Spot11: 25      
+Enter distance between car P1 and Spot12: 72      
+Enter distance between car P1 and Spot13: 65      
+Enter distance between car P1 and Spot14: 78      
+Enter distance between car P1 and Spot15: 79      
+Enter distance between car P1 and Spot16: 55      
+Enter distance between car P2 and Spot1: 6
+Enter distance between car P2 and Spot2: 2
+Enter distance between car P2 and Spot3: 9
+Enter distance between car P2 and Spot4: 15
+Enter distance between car P2 and Spot5: 4
+Enter distance between car P2 and Spot6: 4
+Enter distance between car P2 and Spot7: 56
+Enter distance between car P2 and Spot8: 49
+Enter distance between car P2 and Spot9: 47
+Enter distance between car P2 and Spot10: 74
+Enter distance between car P2 and Spot11: 56
+Enter distance between car P2 and Spot12: 78
+Enter distance between car P2 and Spot13: 45
+Enter distance between car P2 and Spot14: 46
+Enter distance between car P2 and Spot15: 48
+Enter distance between car P2 and Spot16: 45
+Enter distance between car P3 and Spot1: 9
+Enter distance between car P3 and Spot2: 8
+Enter distance between car P3 and Spot3: 9
+Enter distance between car P3 and Spot4: 6
+Enter distance between car P3 and Spot5: 6
+Enter distance between car P3 and Spot6: 3
+Enter distance between car P3 and Spot7: 56
+Enter distance between car P3 and Spot8: 47
+Enter distance between car P3 and Spot9: 78
+Enter distance between car P3 and Spot10: 27
+Enter distance between car P3 and Spot11: 26
+Enter distance between car P3 and Spot12: 23
+Enter distance between car P3 and Spot13: 45
+Enter distance between car P3 and Spot14: 45
+Enter distance between car P3 and Spot15: 56
+Enter distance between car P3 and Spot16: 78
+
+Input martix-
+P1-> | 5 | 3 | 10 | 11 | 12 | 14 | 20 | 18 | 19 | 100 | 25 | 72 | 65 | 78 | 79 | 55 |
+P2-> | 6 | 2 | 9 | 15 | 4 | 4 | 56 | 49 | 47 | 74 | 56 | 78 | 45 | 46 | 48 | 45 |
+P3-> | 9 | 8 | 9 | 6 | 6 | 3 | 56 | 47 | 78 | 27 | 26 | 23 | 45 | 45 | 56 | 78 |
+...................
+Best spots Assignment using this algorithm
+For car P2 assignment on spot with cost= 2
+For car P1 assignment on spot with cost= 5
+For car P3 assignment on spot with cost= 3
+
+Total Cost: 10
+...................
+PS C:\Users\Adxto\Desktop\Project Spartan\Smart Parking System>
